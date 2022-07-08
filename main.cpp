@@ -18,6 +18,9 @@
 // 7-Blur Image
 // 8-Enlarge Image
 // 9-detect Edges
+// 10-Darken or lighten Image
+// 11-Merge with another Image
+// 12-Shrink Image
 
 //---------------------------------------
 
